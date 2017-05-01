@@ -1,0 +1,15 @@
+{
+  "name": "pnpm-eslint-import-order",
+  "version": "1.0.0",
+  "description": "Repro test case repository for using pnpm with eslint-plugin-import",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Wei Wang",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
